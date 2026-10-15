@@ -2,7 +2,7 @@
 
 An interactive playground of data structures and classic interview problems, each implemented from scratch in Python, tested with pytest, and visualized live with Streamlit.
 
-**Live site:** _coming in Lesson 4_
+**Live site:** https://shreyatalla-algolab.streamlit.app
 
 ## Run locally
 ```bash
